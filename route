@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <!-- Instant Meta Redirect -->
+    <meta http-equiv="refresh" content="0; url=https://sih.gov.in/">
+    
+    <!-- JavaScript Backup Redirect -->
+    <script>
+        window.location.replace("https://sih.gov.in/");
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, please <a href="https://sih.gov.in/" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+</body>
+</html>
